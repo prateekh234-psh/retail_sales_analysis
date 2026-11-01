@@ -1,3 +1,6 @@
+# This is a guided beginner learning project developed as part of my journey into data analytics. The project is being used to understand Python-based data analysis, data manipulation and visualisation.
+
+
 # Retail Sales Performance Analysis
 
 A beginner-friendly Python analytics project using a generated sample retail dataset.
