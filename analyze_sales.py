@@ -1,8 +1,3 @@
-"""
-Retail Sales Performance Analysis
-Run: python analyze_sales.py
-Creates a synthetic dataset, summary CSV files and charts in outputs/.
-"""
 from pathlib import Path
 import numpy as np
 import pandas as pd
